@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "763D0365EAA1C47A8B2430669C14BD070515A06B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2DE1CC839307CDC11314A46440F719C21EDEF4D5" : 9223372036854775807,
+    "763D0365EAA1C47A8B2430669C14BD070515A06B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "49042BF2-5C50-4223-BD30-E6DC0480699A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2DE1CC839307CDC11314A46440F719C21EDEF4D5" : "",
+    "763D0365EAA1C47A8B2430669C14BD070515A06B" : "nativ-view-study\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UITableView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/UITableView\/UITableView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yinshuxun\/livetv-ssr.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2DE1CC839307CDC11314A46440F719C21EDEF4D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yinshuxun\/native-view-study.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "763D0365EAA1C47A8B2430669C14BD070515A06B"
+    }
+  ]
+}
